@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394114894492",
+    "project_id": "fcmpushnotification-58953",
+    "storage_bucket": "fcmpushnotification-58953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394114894492:android:048b208ef1bca2e3bc3b59",
+        "android_client_info": {
+          "package_name": "com.panku.aapnaexpensemanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwNhjFL4dHMMpwwbO-TNHlOMyeCx3m3wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394114894492:android:ebc974735f914149bc3b59",
+        "android_client_info": {
+          "package_name": "com.panku.quoteapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwNhjFL4dHMMpwwbO-TNHlOMyeCx3m3wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
